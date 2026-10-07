@@ -10,3 +10,5 @@ index.md            アプリの一覧
 <アプリ>/support/         サポート
 <アプリ>/privacy-policy/  プライバシーポリシー
 ```
+
+ページの見出しは front matter の `title` から作られるため、本文に `#` の見出しは書きません。
